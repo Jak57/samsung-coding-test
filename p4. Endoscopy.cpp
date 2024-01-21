@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/endoscope
+
 1.
 // Tree BFS
 
